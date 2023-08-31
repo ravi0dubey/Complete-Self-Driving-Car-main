@@ -46,7 +46,7 @@ pip install python-socketio==4.6.1
 ```
 
 
-## STEP 06: 
+## STEP 04: 
 Now to start the drive run the following command
 
 
@@ -54,7 +54,13 @@ Now to start the drive run the following command
 python drive.py
 ```
 
-Now open your simulator in Autonomous mood & run yes!!🙂
+## STEP 05: 
+
+Now open your simulator in Autonomous mood & run.
+
+Go to Car Simulator folder -> simulator-Windows-32 -> and click on Self-Driving Car Simulator Windows 32-bit
+Click on Autonomous mode let your car drive on its own without any user intervention.
+
 
 # Author:
 ```bash
